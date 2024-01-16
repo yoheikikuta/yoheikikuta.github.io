@@ -50,7 +50,9 @@ const { posts } = Astro.props;
         {
             posts.map((post) => (
                 <li>
-                    <a href={post.url}>{post.frontmatter.title}</a>
+                    <a href={post.url}>
+                        <h4 class="title">{post.frontmatter.title}</h4>
+                    </a>
                 </li>
             ))
         }
