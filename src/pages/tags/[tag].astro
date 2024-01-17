@@ -3,6 +3,7 @@ import BaseHead from "../../components/BaseHead.astro";
 import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
+import FormattedDate from "../../components/FormattedDate.astro";
 
 type Post = {
     file: string;
@@ -10,6 +11,7 @@ type Post = {
     frontmatter: {
         title: string;
         tags: string[];
+        pubDate: string;
     };
 };
 
@@ -94,14 +96,23 @@ const { posts } = Astro.props;
         <main>
             <section>
                 <ul>
-                    <h2>{tag} のタグが付いた記事</h2>
+                    <h2>{tag} のタグが付いた記事一覧</h2>
                     {
                         posts.map((post) => (
                             <li>
                                 <a href={post.url}>
                                     <h4 class="title">
-                                        {post.frontmatter.title}
+                                        {post.frontmatter.title}{" "}
                                     </h4>
+                                    <p class="date">
+                                        <FormattedDate
+                                            date={
+                                                new Date(
+                                                    post.frontmatter.pubDate,
+                                                )
+                                            }
+                                        />
+                                    </p>
                                 </a>
                             </li>
                         ))
