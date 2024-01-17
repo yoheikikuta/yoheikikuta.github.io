@@ -36,9 +36,13 @@ export async function getStaticPaths() {
     ];
 
     return uniqueTags.map((tag) => {
-        const filteredPosts = allPosts.filter((post) =>
-            post.frontmatter.tags.includes(tag),
-        );
+        const filteredPosts = allPosts
+            .filter((post) => post.frontmatter.tags.includes(tag))
+            .sort(
+                (a, b) =>
+                    new Date(b.frontmatter.pubDate).getTime() -
+                    new Date(a.frontmatter.pubDate).getTime(),
+            );
         return {
             params: { tag },
             props: { posts: filteredPosts },
