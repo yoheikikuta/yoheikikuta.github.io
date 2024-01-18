@@ -1,6 +1,6 @@
 ---
 title: ブログ開始
-description: test
+description: ブログ「原理的には可能」の開始を宣言するブログ記事。
 pubDate: 2017-01-14
 tags: ['雑談']
 ---

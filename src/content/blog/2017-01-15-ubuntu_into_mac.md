@@ -1,6 +1,6 @@
 ---
 title: iMacのNVIDIA GPUをデュアルブートしたUbuntu16.04のnvidia-dockerで使う
-description: test
+description: 自宅で使用している iMac が NVIDIA GPU だったので、nvidia-docker を使える環境を構築しようと思い、環境構築の過程を記録したブログ記事。
 pubDate: 2017-01-15
 tags: ['env development']
 ---
