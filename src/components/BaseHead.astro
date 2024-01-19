@@ -1,7 +1,7 @@
 ---
 // Import the global.css file here so that it is included on
 // all pages through the use of the <BaseHead /> component.
-import '../styles/global.css';
+import "../styles/global.css";
 
 interface Props {
 	title: string;
@@ -11,7 +11,7 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = '/blog-placeholder-1.jpg' } = Astro.props;
+const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 ---
 
 <!-- Global Metadata -->
@@ -21,8 +21,20 @@ const { title, description, image = '/blog-placeholder-1.jpg' } = Astro.props;
 <meta name="generator" content={Astro.generator} />
 
 <!-- Font preloads -->
-<link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
-<link rel="preload" href="/fonts/atkinson-bold.woff" as="font" type="font/woff" crossorigin />
+<link
+	rel="preload"
+	href="/fonts/atkinson-regular.woff"
+	as="font"
+	type="font/woff"
+	crossorigin
+/>
+<link
+	rel="preload"
+	href="/fonts/atkinson-bold.woff"
+	as="font"
+	type="font/woff"
+	crossorigin
+/>
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
@@ -45,3 +57,15 @@ const { title, description, image = '/blog-placeholder-1.jpg' } = Astro.props;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
+
+<link
+	rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.css"
+	integrity="sha384-OH8qNTHoMMVNVcKdKewlipV4SErXqccxxlg6HC9Cwjr5oZu2AdBej1TndeCirael"
+	crossorigin="anonymous"
+/>
+<script
+	defer
+	src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.js"
+	integrity="sha384-ImWHyYvDPlRzwFnvLhG9Jcpm/7qL4SVIuJK0C6Rj+Mf7fpeNJCLCynC+EVz4kCSA"
+	crossorigin="anonymous"></script>
