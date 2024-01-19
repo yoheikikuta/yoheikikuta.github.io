@@ -13,7 +13,3 @@ tags: ['雑談']
 ブログというか雑記帳としてGitHub Pagesを使っていくことにする。  
 [jekyll-now](https://github.com/barryclark/jekyll-now) を使ってみたがとても簡単。ありがてぇ。  
 技術的なトピックからくだらない日々の雑感まで書いていく。
-
----
----
-<br>

@@ -9,7 +9,6 @@ tags: ['env development']
 - タイトルまま
 <br>
 
-
 マシンは iMac(27-inch, Late 2013) でプロセッサは以下。
 - CPU : 3.4 GHz quad-core intel Core i5
 - GPU : NVIDIA GeForce GTX 775M with 2GB of GDDR5 memory
@@ -151,7 +150,3 @@ sudo nvidia-docker run --rm nvidia/cuda nvidia-smi
 
 これにて終了。あとは自分の好きなgpu-enabledなコンテナを作って遊びましょう。  
 お疲れ様でした。
-
----
----
-<br>
