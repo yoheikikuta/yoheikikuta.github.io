@@ -7,7 +7,7 @@ tags: ['env development']
 
 ### TL;DR
 - nvidia-docker と不整合を起こさないように linux kernel version を固定するようにした
-<br>
+---
 
 Ubuntu 16.04 LTSでlinux kernelのversionを固定する。
 apt-get upgradeとかでkernelがversion upしてNVIDIAのdriverのversionと不整合を起こして入れ直し、が面倒だというのが主な理由。

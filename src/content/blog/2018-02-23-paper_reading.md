@@ -10,7 +10,7 @@ tags: ['Machine Learning']
 - 論文読みのメモを [GitHubのレポジトリのissue](https://github.com/yoheikikuta/paper-reading/issues) で管理することにした
 - 数式は screencloud で imgur に保存してそれを貼るということにした。自分で書けないのは不便もあるが、数式が多すぎない論文なら大丈夫そう
 - 小さい単位でコメントとして残していくスタイルはまあまあ良さそう
-<br>
+---
 
 普段の論文読みを iPad Pro に移行してから結構快適である。  
 

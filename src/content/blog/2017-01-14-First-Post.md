@@ -8,7 +8,7 @@ tags: ['雑談']
 ### TL;DR
 - ブログを始めた
 - 日々のあれこれを書いていくことにする
-<br>
+---
 
 ブログというか雑記帳としてGitHub Pagesを使っていくことにする。  
 [jekyll-now](https://github.com/barryclark/jekyll-now) を使ってみたがとても簡単。ありがてぇ。  

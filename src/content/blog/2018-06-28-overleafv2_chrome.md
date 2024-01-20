@@ -10,7 +10,7 @@ tags: ['env development']
 - Chrome で遭遇するエディタのカーソルがズレる問題を解決した（フォントのカスタマイズで固定幅フォントを「Monaco」にする）
 - reference search など新しい機能が使えて全体的に良い感じ
 - 具体的な例は [こちら](https://v2.overleaf.com/read/fdjjqtsvgktj)
-<br>
+---
 
 最近は LaTeX を使って何かを書くときは専ら Overleaf を使っていて、ローカルの環境構築とかは気が進まないなぁ思うようになっている。
 そんな Overleaf の v2 が出たということで試してみた。

@@ -7,7 +7,7 @@ tags: ['env development']
 
 ### TL;DR
 - Ubuntu Desktop 環境で jekyll serve を使えるようにした
-<br>
+---
 
 UbuntuでGithub Pagesに公開するjekyllで作成したサイトをローカルで確認できるようになることが目標。
 ちなみにUbuntu 16.04 LTS。

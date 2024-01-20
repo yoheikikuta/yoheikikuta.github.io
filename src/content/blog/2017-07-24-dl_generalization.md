@@ -8,7 +8,7 @@ tags: ['Machine Learning']
 
 ### TL;DR
 - Deep Learningの汎化性能に関して軽くまとめてその内容を発表した
-<br>
+---
 
 <script async class="speakerdeck-embed" data-id="4e335c08f3304c56b9b3d9ca7b4435ba" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 

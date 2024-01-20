@@ -9,7 +9,7 @@ tags: ['env development']
 - iPad Pro で論文を読む際に Notability を使いたいが Mendeley などと異なり論文管理は手間
 - Chrome extension を使って arXiv の論文を google drive に保存できるようにした：[Repository](https://github.com/yoheikikuta/arxiv-pdf-downloader)
 - Notability との連携が改善されれば文句なしなのだが...
-<br>
+---
 
 以前 iPad Pro で論文を読むにはどうしたらいいだろうと思って [こんな記事](https://yoheikikuta.github.io/ipadpro/) を書いた。
 その時の結論は「Mendeley + PaperShip」というものだった。

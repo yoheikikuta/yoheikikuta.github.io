@@ -7,7 +7,7 @@ tags: ['env development']
 
 ### TL;DR
 - タイトルまま
-<br>
+---
 
 マシンは iMac(27-inch, Late 2013) でプロセッサは以下。
 - CPU : 3.4 GHz quad-core intel Core i5
