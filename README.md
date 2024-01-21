@@ -1,4 +1,4 @@
 # 原理的には可能
 
-Yohei Kikuta のブログです。  
-https://github.com/withastro/astro/tree/main/examples/blog を基にしています。
+Yohei Kikuta's blog.  
+This repository is based on https://github.com/withastro/astro/tree/main/examples/blog.
