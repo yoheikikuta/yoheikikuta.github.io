@@ -11,7 +11,7 @@ tags: ['env development']
 - Notability との連携が改善されれば文句なしなのだが...
 ---
 
-以前 iPad Pro で論文を読むにはどうしたらいいだろうと思って [こんな記事](https://yoheikikuta.github.io/ipadpro/) を書いた。
+以前 iPad Pro で論文を読むにはどうしたらいいだろうと思って [iPad Pro で論文を読む](https://yoheikikuta.github.io/blog/2018-01-11-ipadpro/) を書いた。
 その時の結論は「Mendeley + PaperShip」というものだった。
 
 しかしながら、やっぱりというかなんというか、気に入らない部分があって何とかできないかなぁと考えていた。

@@ -11,7 +11,7 @@ tags: ['仕事']
 - 連絡は @yohei_kikuta 宛の DM <a href="https://twitter.com/messages/compose?recipient_id=840839535026028544&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="https://twitter.com/yohei_kikuta" data-show-count="false">Message @https://twitter.com/yohei_kikuta</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> もしくは `diracdiego[at]gmail.com` にお願いします
 ---
 
-201901 末に仕事を辞めて一年くらい無職とかフリーランスをやっていましたが（無職になった経緯とかは [こちらのエントリ](https://yoheikikuta.github.io/retirement/) で書いてます）、ついに就職活動を始めることにしました。
+201901 末に仕事を辞めて一年くらい無職とかフリーランスをやっていましたが（無職になった経緯とかは [仕事を辞めて無職になりました](https://yoheikikuta.github.io/blog/2019-01-31-retirement/) で書いてます）、ついに就職活動を始めることにしました。
 
 君のような人間にはウチの会社がピッタリ！という方はぜひご連絡ください。カジュアル面談でもカジュアル面談という名の選考でもウェルカムです。
 知り合いの方であれば能力や人間性が大体分かっていると思いますので、リファラルで是非。

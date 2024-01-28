@@ -46,7 +46,7 @@ Whenever new GenerativeAI technologies emerge, a variety of people experiment wi
 While this level of initiative is certainly commendable, if left unmanaged, it could lead to uncoordinated efforts and possible chaos.
 As such, it's crucial to have someone to orchestrate these various initiatives.
 
-At Ubie, we have adopted [Holacracy (article in Japanese)](https://yoheikikuta.github.io/ubie_discovery_org_dev_as_software_dev/) and have established roles that are responsible for overseeing productivity enhancement tools and integrating them into the organization.
+At Ubie, we have adopted [Holacracy (article in Japanese)](https://yoheikikuta.github.io/blog/2022-01-04-ubie_discovery_org_dev_as_software_dev/) and have established roles that are responsible for overseeing productivity enhancement tools and integrating them into the organization.
 Both myself and other developers are assigned to these roles (in addition to this, there are teams tasked with creating new value and integrating it into business strategies using Large Language Models, but that's a separate narrative from this productivity improvement and will not be discussed here).
 
 In this role, I am actively involved in selecting, verifying, and promoting external tools that have the potential to create a significant impact.

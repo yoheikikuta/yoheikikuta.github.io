@@ -16,7 +16,7 @@ tags: ['雑談']
 特筆すべき点はないのだがメモがてらブログに書いておく。
 
 ### 自分の確定申告の流れ
-過去に記事 [https://yoheikikuta.github.io/tax_returns/](https://yoheikikuta.github.io/tax_returns/) を書いていて、基本的にはこれを毎年少しずつ育てて（新しいことがあったら情報をアップデートして）いる。
+過去に記事 [確定申告の提出書類を作成した](https://yoheikikuta.github.io/blog/2018-02-12-tax_returns/) を書いていて、基本的にはこれを毎年少しずつ育てて（新しいことがあったら情報をアップデートして）いる。
 
 今年の確定申告も例年通り以下の手順で進めた。
 

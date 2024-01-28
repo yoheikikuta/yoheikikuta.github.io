@@ -11,7 +11,7 @@ tags: ['programming']
 - 簡易的な逆アセンブラとアセンブラを実装することで、低レベルからC言語の理解を深めることができる良コンテンツ
 ---
 
-以前 [c-lesson](https://github.com/karino2/c-lesson) の [第一回の感想](https://yoheikikuta.github.io/clesson_first_postscript/) を書いた。
+以前 [c-lesson](https://github.com/karino2/c-lesson) の [第一回の感想](https://yoheikikuta.github.io/blog/2019-04-16-clesson_first_postscript/) を書いた。
 c-lesson とは何かとか第一回の概要を知りたい人はこれを読んでいただければ。
 
 第一回では PostScript のインタプリタを実装したわけだが、第二回は簡易的な逆アセンブラとアセンブラを実装し、低レベルの観点からC言語をさらに理解（する素地を作ることが）できるようになっている。

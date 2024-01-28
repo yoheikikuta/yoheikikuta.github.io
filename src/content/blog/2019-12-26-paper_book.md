@@ -39,7 +39,7 @@ tags: ['雑談']
 
 PDF で管理しておけば、比較的それぞれのタイトルとか見やすいし、検索も効くので以前読んだ論文とかを見つけるのもラクだ。
 内容とか忘れがちなのだけど、自分が書いたメモとかを見返すと思い出しやすいので、捨ててしまいがちな紙に印刷したものと比べると上手く機能している。
-ちなみに自分は iPad Pro での論文読みは [この記事](https://yoheikikuta.github.io/arXiv_pdf_download_extension/) のように、「arXiv の論文を自作の Chrome extension で Google Drive に良い感じのファイル名で保存し、それを iPad Pro の Notability というアプリと連携してそこでメモを取りながら読んで、バックアップを Google Drive に保存する」という形式でやっている。
+ちなみに自分は iPad Pro での論文読みは [arXiv の論文を google drive に保存する Chrome extension を作った](https://yoheikikuta.github.io/blog/2018-05-04-arxiv_pdf_download_extension/) のように、「arXiv の論文を自作の Chrome extension で Google Drive に良い感じのファイル名で保存し、それを iPad Pro の Notability というアプリと連携してそこでメモを取りながら読んで、バックアップを Google Drive に保存する」という形式でやっている。
 
 計算をちゃんと追いたいときとかには PDF にページを挿入してそこに書いておけばいいので、以前やった計算がどっかに行ったとかも回避しやすい。
 画面の小ささは人に依っては結構大きな問題になると思うけど、幸い自分は読むときの文字も書くときの文字も小さいのが好きなタイプなのでほとんど苦にならない。

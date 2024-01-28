@@ -19,7 +19,7 @@ hikifune.fm [https://anchor.fm/yoheikikuta](https://anchor.fm/yoheikikuta) と�
 ### hikifune.fm とは何だったのか？
 何だったのか？とか言うともう終わったものという感じもするが、まだ終わってはいない。
 
-コンセプトとか運用に関しては [https://yoheikikuta.github.io/podcast_hikifunefm/](https://yoheikikuta.github.io/podcast_hikifunefm/) で書いた。
+コンセプトとか運用に関しては [https://yoheikikuta.github.io/blog/2020-10-11-podcast_hikifunefm](https://yoheikikuta.github.io/blog/2020-10-11-podcast_hikifunefm/) で書いた。
 
 機械学習に関連する事柄を配信することで自分たちの勉強に役立てようというものである（会社の仕事は諸般の事情により対外的に話しづらいということもあるので、勝手に勉強して勝手に話す場として準備している）。
 配信をしているので誰でも聞けるものではあるけど、聞き手にとってためになるとかではなくあくまで自分たちの役に立つという目的がメインで、一定間隔で配信をすることで配信ドリブンでインプットの意識を高めようという感じ。

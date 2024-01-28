@@ -82,7 +82,7 @@ Colaboratory は URL を共有してコピーして使ってもらえば他の�
 分析結果をどう連携するかについても日々実践していることを書いてみる。
 
 一番頻度高く使うのは、クエリの実行結果を作業ログとしての GitHub issues に markdown table として貼るというもの。
-これは連携というよりは自分の日々の作業ログであったり他の人が作業ログを見た時に自分の思考の流れが追えるようにしてるという側面が強い（ちなみに以前データ分析系タスクの作業ログ共有に Jasper を使っているという話 [https://yoheikikuta.github.io/working_log_using_jasper/](https://yoheikikuta.github.io/working_log_using_jasper/) も書いたりしている）。
+これは連携というよりは自分の日々の作業ログであったり他の人が作業ログを見た時に自分の思考の流れが追えるようにしてるという側面が強い（ちなみに以前データ分析系タスクの作業ログ共有に Jasper を使っているという話 [https://yoheikikuta.github.io/blog/2020-10-30-working_log_using_jasper](https://yoheikikuta.github.io/blog/2020-10-30-working_log_using_jasper/) も書いたりしている）。
 markdown table としてコピーする方法は BigQuery なら以下のように tweet した方法を使っていて、DataGrip の場合は `Export Data` で `Copy to Clickboard` を使っている（当然後者の方が使いやすい）。
 <center>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BQ console のクエリ結果をコピーして GitHub issues とかにマークダウンとしてペーストできるのは便利だけど、左だとヘッダーがちゃんととれなくて右だと大丈夫（これは Safari で Chrome だと見た目の違いは分からない）<br><br>tips は左上からではなく右下の値のところから範囲選択することです（真顔） <a href="https://t.co/Th3h99C5Qt">pic.twitter.com/Th3h99C5Qt</a></p>&mdash; Yohei KIKUTA (@yohei_kikuta) <a href="https://twitter.com/yohei_kikuta/status/1457273523706077188?ref_src=twsrc%5Etfw">November 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

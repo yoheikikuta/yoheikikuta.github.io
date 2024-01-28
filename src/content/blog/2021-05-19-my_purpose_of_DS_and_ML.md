@@ -22,7 +22,7 @@ Ubie 株式会社に入社して 1 年以上経過したので軽く振り返り
 勤続一年一ヶ月という圧倒的事実が示唆しているように、（労働の辛さはもちろんあるのだが）楽しく働けている。
 これは主観的にもそうだし、他の人から言われることもあるので客観的にもそうだと言えるだろう。
 
-入社を決めた時のブログエントリ [https://yoheikikuta.github.io/joinning_ubie/](https://yoheikikuta.github.io/joinning_ubie/) を今一度読んでみると、「ストーリーを語りたくなるような仕事ができそう」ということで入社を決めている。
+入社を決めた時のブログエントリ [https://yoheikikuta.github.io/blog/2020-03-24-joinning_ubie](https://yoheikikuta.github.io/blog/2020-03-24-joinning_ubie/) を今一度読んでみると、「ストーリーを語りたくなるような仕事ができそう」ということで入社を決めている。
 
 どうですか、ストーリー、語れそうですか？（自分への問いかけ）
 

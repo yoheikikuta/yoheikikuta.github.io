@@ -13,8 +13,8 @@ tags: ['programming']
 ---
 
 過去回の感想ブログ
-- [第一回の感想](https://yoheikikuta.github.io/clesson_first_postscript/)
-- [第二回の感想](https://yoheikikuta.github.io/clesson_second_asm/)
+- [第一回の感想](https://yoheikikuta.github.io/blog/2019-04-16-clesson_first_postscript/)
+- [第二回の感想](https://yoheikikuta.github.io/blog/2019-07-01-clesson_second_asm/)
 
 最初に着手してからだいぶ時間が経ってしまったが、ついに c-lesson の第三回も終えて全内容を完了した。
 

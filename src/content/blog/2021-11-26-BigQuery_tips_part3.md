@@ -345,6 +345,6 @@ LIMIT 10
 ### まとめ
 BigQuery を使って分析する際の tips part1~3 を書いた。part3 は公式リファレンスが一番、みたいな話になってしまった...
 
-- part1: 開発環境やデータ連携 [https://yoheikikuta.github.io/BigQuery_tips_part1](https://yoheikikuta.github.io/BigQuery_tips_part1)
-- part2: クエリを書く際に押さえておくとよいこと [https://yoheikikuta.github.io/BigQuery_tips_part2](https://yoheikikuta.github.io/BigQuery_tips_part2)
-- part3: 具体的なクエリの tips （このエントリ）[https://yoheikikuta.github.io/BigQuery_tips_part3](https://yoheikikuta.github.io/BigQuery_tips_part3)
+- part1: 開発環境やデータ連携 [https://yoheikikuta.github.io/blog/2021-11-13-bigquery_tips_part1](https://yoheikikuta.github.io/blog/2021-11-13-bigquery_tips_part1/)
+- part2: クエリを書く際に押さえておくとよいこと [https://yoheikikuta.github.io/blog/2021-11-21-bigquery_tips_part2](https://yoheikikuta.github.io/blog/2021-11-21-bigquery_tips_part2/)
+- part3: 具体的なクエリの tips （このエントリ）[https://yoheikikuta.github.io/blog/2021-11-26-bigquery_tips_part3](https://yoheikikuta.github.io/blog/2021-11-26-bigquery_tips_part3/)
