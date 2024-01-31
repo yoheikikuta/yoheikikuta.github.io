@@ -5,6 +5,14 @@ import Footer from "../../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
 
 const allPosts = await Astro.glob("../../content/blog/*.md");
+
+const tagCounts = allPosts.reduce((counts: { [key: string]: number }, post) => {
+    post.frontmatter.tags.forEach((tag: string) => {
+        counts[tag] = (counts[tag] || 0) + 1;
+    });
+    return counts;
+}, {});
+
 const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())];
 ---
 
@@ -59,7 +67,9 @@ const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())];
                         tags.map((tag) => (
                             <li>
                                 <a href={`/tags/${tag}`}>
-                                    <h4 class="tag">{tag}</h4>
+                                    <h4 class="tag">
+                                        {tag} ({tagCounts[tag]})
+                                    </h4>
                                 </a>
                             </li>
                         ))
