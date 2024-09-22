@@ -1,5 +1,5 @@
 ---
-title: 論部の内容を理解するための生成AI
+title: 論文の内容を理解するための生成AI
 description: 数理的な内容を含む学術論文の内容を理解する助けとなる生成AIについてまとめるブログ記事。
 pubDate: 2024-09-22
 tags: ['Machine Learning']
