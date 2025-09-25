@@ -14,7 +14,6 @@ tags: ['Machine Learning']
 $$
 \def\bra#1{\mathinner{\left\langle{#1}\right|}}
 \def\ket#1{\mathinner{\left|{#1}\right\rangle}}
-\def\braket#1#2{\mathinner{\left\langle{#1}\middle|#2\right\rangle}}
 $$
 
 理論物理の研究者が書いた「ディープラーニングと物理学」が出版されたという話を目にしたので、一通り読んでみた。
@@ -52,7 +51,7 @@ reference が結構充実しているなと思った。
 
 $$
 \begin{align} 
-\sum_{i} w_i v_i = \overrightarrow{w}^{T} \overrightarrow{v} = \braket{w}{v}
+\sum_{i} w_i v_i = \overrightarrow{w}^{T} \overrightarrow{v} = \langle w \mid v \rangle
 \end{align}
 $$
 
@@ -60,7 +59,7 @@ $$
 
 $$
 \begin{align} 
-\braket{w}{v} &= \sum_{i, j} \bra{e_i} w_i v_j \ket{e_j} = \sum_{i, j} w_i v_j \braket{e_i}{e_j} = \sum_{i, j} w_i v_j \delta_{i,j} \\
+\langle w \mid v \rangle &= \sum_{i, j} \bra{e_i} w_i v_j \ket{e_j} = \sum_{i, j} w_i v_j \langle e_i \mid e_j \rangle = \sum_{i, j} w_i v_j \delta_{i,j} \\
 &= \sum_i w_i v_i
 \end{align}
 $$
@@ -116,7 +115,7 @@ $\ket{x_{\alpha}} = \sum_i x_{i, \alpha} \ket{e_i}$ ただし $\alpha$ は何番
 
 $$
 \begin{align} 
-E = \frac{1}{2} \sum_{\alpha} \braket{out_{\alpha} - y_{\alpha}}{out_{\alpha} - y_{\alpha}} = \frac{1}{2} \sum_{\alpha} (\bra{x_{\alpha}} W^T - \bra{y_{\alpha}}) (W \ket{x_{\alpha}} - \ket{y_{\alpha}}) 
+E = \frac{1}{2} \sum_{\alpha} \langle out_{\alpha} - y_{\alpha} \mid {out_{\alpha} - y_{\alpha}} \rangle = \frac{1}{2} \sum_{\alpha} (\bra{x_{\alpha}} W^T - \bra{y_{\alpha}}) (W \ket{x_{\alpha}} - \ket{y_{\alpha}}) 
 \end{align}
 $$
 
