@@ -1,7 +1,7 @@
 ---
 title: 書籍「原論文から解き明かす生成AI」発売1周年振り返り
 description: 執筆した書籍「原論文から解き明かす生成AI」が発売から1年経ったので振り返りをするというブログ記事。
-pubDate: 2026-08-15
+pubDate: 2026-08-16
 tags: ['Machine Learning']
 ---
 
